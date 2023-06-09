@@ -5,8 +5,8 @@ tvbox
 单仓地址：https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json
 
 1、https://jihulab.com/yw88075/tvbox1/-/raw/main/ywdc.json
-、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
-、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
+2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
+3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
 借用的都是大佬的本地接口和在线接口。
 --------------------------------
 6.5
