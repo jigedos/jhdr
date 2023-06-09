@@ -6,8 +6,7 @@ tvbox
 2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
 3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
 借用的都是大佬的本地接口和在线接口。
-
----------------------------------
+--------------------------------
 6.5
 又不是不能用🙄
 ---------------------------------
