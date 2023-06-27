@@ -1,5 +1,7 @@
 {"spider":"./t.jar",
  "sites":[
+  {"key":"drpy_js_l0l","name":"请至【非凡工具箱】","type":3,"api":"./lib/drpy2.min.js","ext":"./js/l0l.js"},
+{"key":"drpy_js_多米[V2]","name":"获取0630极速版","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米[V2].js"},
 {"key":"好趣网","name":"电视 | 好趣网","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
   {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
   {"key":"drpy_js_开眼视频","name":"影视 | 开眼视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/开眼视频.js"},
@@ -16,8 +18,7 @@
 {"key":"drpy_js_农民","name":"影视 | 农民","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 
 {"key":"drpy_js_l0l","name":"影视 | l0l","type":3,"api":"./lib/drpy2.min.js","ext":"./js/l0l.js"},
-{"key":"drpy_js_多米[V2]","name":"影视 | 多米[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米[V2].js"},
-{"key":"drpy_js_如意[V2]","name":"影视 | 如意[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/如意[V2].js"},
+
 {"key":"drpy_js_网飞.TV","name":"影视 | 网飞.TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网飞.TV.js"},
 {"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐猪TV.js"},
 {"key":"drpy_js_六度TV","name":"影视 | 六度TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/六度TV.js"},
